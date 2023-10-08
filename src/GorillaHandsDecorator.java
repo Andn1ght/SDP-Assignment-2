@@ -1,6 +1,6 @@
-public class GorillaHands extends ModificationDecorator{
+public class GorillaHandsDecorator extends ModificationDecorator{
 
-    public GorillaHands(Modification baseModification) {
+    public GorillaHandsDecorator(Modification baseModification) {
         super(baseModification);
     }
 
