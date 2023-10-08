@@ -7,7 +7,6 @@ Welcome to the Cyberpunk Character Modification project! This Java project demon
 - [Introduction](#introduction)
 - [Key Principles](#key-principles)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ## Introduction
 
