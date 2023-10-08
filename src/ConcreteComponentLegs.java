@@ -1,3 +1,7 @@
+/**
+ * The ConcreteComponentLegs class represents basic legs with standard functionality.
+ * It implements the Modification interface.
+ */
 public class ConcreteComponentLegs implements Modification{
 
     @Override

@@ -1,3 +1,7 @@
+/**
+ * The LynxPawsDecorator class represents legs equipped with Lynx Paws for enhanced agility.
+ * It extends the ModificationDecorator class.
+ */
 public class LynxPawsDecorator extends ModificationDecorator{
     public LynxPawsDecorator(Modification baseModification) {
         super(baseModification);

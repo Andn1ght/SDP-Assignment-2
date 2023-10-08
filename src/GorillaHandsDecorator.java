@@ -1,3 +1,7 @@
+/**
+ * The GorillaHandsDecorator class represents hands enhanced with Gorilla Hands cyberware modification.
+ * It extends the ModificationDecorator class.
+ */
 public class GorillaHandsDecorator extends ModificationDecorator{
 
     public GorillaHandsDecorator(Modification baseModification) {

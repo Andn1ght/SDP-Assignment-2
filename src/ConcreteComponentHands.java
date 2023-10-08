@@ -1,3 +1,7 @@
+/**
+ * The ConcreteComponentHands class represents basic hands with standard functionality.
+ * It implements the Modification interface.
+ */
 public class ConcreteComponentHands implements Modification{
 
     @Override

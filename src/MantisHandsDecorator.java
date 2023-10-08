@@ -1,3 +1,7 @@
+/**
+ * The MantisHandsDecorator class represents hands upgraded with Mantis Hands cyberware modification.
+ * It extends the ModificationDecorator class.
+ */
 public class MantisHandsDecorator extends ModificationDecorator{
 
     public MantisHandsDecorator(Modification baseModification) {
